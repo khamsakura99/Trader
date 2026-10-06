@@ -1,0 +1,6 @@
+{
+  "name": "MetaPulse MT5 - Algorithmic Trading & Analytics Desk",
+  "description": "Real-time MetaTrader 5 analytics desk with curve telemetry, RSI grid orders, ECN market watch, and MQL5 bridge.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
